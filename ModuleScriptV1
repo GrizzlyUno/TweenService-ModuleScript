@@ -1,4 +1,4 @@
-```
+```lua
 local TweenServiceModule = {}
 
 function TweenServiceModule.TweenCustom(Object, Time, Property, Goal, EasingStyle, EasingDirection, RepeatCount, ReverseBool)
